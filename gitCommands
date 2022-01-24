@@ -2,3 +2,4 @@ commit
 conflict merge
 cherry-pick
 revert
+stash
